@@ -1,0 +1,8 @@
+/* Some Components */
+.proPoint-card-bg{
+    background-image: linear-gradient(41deg, #78ffec, #a9ff00);
+    border-radius: 5px;
+}
+.proPoint-text-success{
+    color: #037315;
+}

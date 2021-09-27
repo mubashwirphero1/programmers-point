@@ -1,0 +1,13 @@
+/* Google fonts @import link */
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+/* Some utilities */
+.curly-font{
+    font-family: 'Ephesis', cursive;
+}
+.custom-info{
+    color: #00ffea;
+}
+.custom-yellow{
+    color: yellow;
+}

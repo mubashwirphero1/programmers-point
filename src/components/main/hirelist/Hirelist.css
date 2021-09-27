@@ -1,0 +1,8 @@
+/* Some Components */
+.proPoint-gradientCard-bg{
+    color: greenyellow;
+    text-align: center;
+    background-color: #1818187e;
+    padding: 10px;
+    border-radius: 10px;
+}
